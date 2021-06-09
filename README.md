@@ -1,3 +1,5 @@
 # Qt5_Intermediate_10.2_WorkingWithOS_QProcess
 
-#SourceCode to be added
+#Under working with operating system, QProcess discussed and
+
+#SourceCode added
